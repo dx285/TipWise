@@ -1,0 +1,50 @@
+[
+     {
+     "category": "Restaurant",
+     "bad": "10",
+     "good": "15",
+     "excellent": "20"
+     },
+     {
+     "category": "Bartender",
+     "bad": "10",
+     "good": "15",
+     "excellent": "20"
+     },
+     {
+     "category": "Taxi Driver",
+     "bad": "10",
+     "good": "15",
+     "excellent": "20"
+     },
+     {
+     "category": "Food Delivery",
+     "bad": "10",
+     "good": "12",
+     "excellent": "15"
+     },
+     {
+     "category": "Hairdresser",
+     "bad": "10",
+     "good": "15",
+     "excellent": "20"
+     },
+     {
+     "category": "Spa",
+     "bad": "10",
+     "good": "15",
+     "excellent": "20"
+     },
+     {
+     "category": "Manicurist",
+     "bad": "10",
+     "good": "15",
+     "excellent": "20"
+     },
+     {
+     "category": "Massage",
+     "bad": "10",
+     "good": "15",
+     "excellent": "20"
+     }
+]

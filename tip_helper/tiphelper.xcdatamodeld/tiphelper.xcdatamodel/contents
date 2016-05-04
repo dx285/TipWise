@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10118.6" systemVersion="15C50" minimumToolsVersion="Automatic">
+    <entity name="States" syncable="YES">
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rate" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Tips" syncable="YES">
+        <attribute name="bad" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="category" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="excellent" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="good" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="States" positionX="-36" positionY="9" width="128" height="75"/>
+        <element name="Tips" positionX="-27" positionY="36" width="128" height="105"/>
+    </elements>
+</model>
